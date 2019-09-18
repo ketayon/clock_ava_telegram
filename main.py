@@ -6,7 +6,7 @@ from telethon.tl.functions.photos import UploadProfilePhotoRequest, DeletePhotos
 from datetime import datetime
 from utils import *
 
-client = TelegramClient(<session_nam>, api_id, api_hash)
+client = TelegramClient(<session_name>, api_id, api_hash)
 client.start()
 
 prev_update_time = ""
