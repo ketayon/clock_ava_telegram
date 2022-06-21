@@ -1,5 +1,5 @@
 DateTime==4.3
-numpy==1.17.2
+numpy==1.22.0
 opencv-python==4.1.1.26
 pyaes==1.6.1
 pyasn1==0.4.7
